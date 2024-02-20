@@ -45,4 +45,7 @@ This bar graph demonstrates that cancellations are most common when prices are g
 
 Now, let's see which country has the highest reservation canceled. The top country is Portugal with the highest number of cancellations.
 
+![image](https://github.com/SatyamPatidar30/Python_Data_Analysis_Project/assets/151156440/2762c979-da33-47a3-9caf-7642896d6629)
+
+Let's check the area from where guests are visiting the hotels and making reservations. Is it coming from Direct or Groups, Online or Offline Travel Agents? Around 46% of the clients book hotels directly by visiting them and making reservations.
 
