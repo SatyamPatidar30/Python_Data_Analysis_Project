@@ -49,3 +49,15 @@ Now, let's see which country has the highest reservation canceled. The top count
 
 Let's check the area from where guests are visiting the hotels and making reservations. Is it coming from Direct or Groups, Online or Offline Travel Agents? Around 46% of the clients book hotels directly by visiting them and making reservations.
 
+![image](https://github.com/SatyamPatidar30/Python_Data_Analysis_Project/assets/151156440/92572a38-47a0-4cf6-a3da-65a6e94812f1)
+
+As seen in the graph, reservations are canceled when the average daily rate is higher than when it is not canceled. It clearly proves all the above analysis, that the higher price leads to higher cancellation.
+
+## Suggestions
+
+1. Cancellation rates rise as the price does. In order to prevent cancellation of reservations, hotels could work on their pricing strategies and try to lower the rates for specific hotels based on locations. They can also provide some discounts to the consumers.
+2. Resort hotels experience a higher cancellation-to-booking ratio compared to city hotels. To address this, hotels should consider offering competitive discounts on room rates during weekends and holidays.
+3. In the month of January, hotels can start campaigns or marketing with a reasonable amount to increase their revenue as the cancellation is the highest in this month.
+4. They can also increase the quality of their hotels and their services mainly in Portugal to reduce the cancellation rate.
+
+
