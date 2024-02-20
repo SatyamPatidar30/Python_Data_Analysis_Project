@@ -22,4 +22,6 @@ The analysis of hotel booking cancellations as well as other factors that have n
 1. More cancellations occur when prices are higher.
 2. When there is a longer waiting list, customers tend to cancel more frequently.
 3. The majority of clients are coming from offline travel agents to make their reservations.
+## Analysis and Findings
+
    
