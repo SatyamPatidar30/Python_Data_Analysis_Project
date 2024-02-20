@@ -31,3 +31,8 @@ The accompanying bar graph shows the percentage of reservations that are cancele
 
 In comparison to resort hotels, city hotels have more bookings. It's possible that resort hotels are most expensive than those in cities.
 
+![image](https://github.com/SatyamPatidar30/Python_Data_Analysis_Project/assets/151156440/ab1c6c5c-94bf-4ee7-b201-bea60553c3d6)
+
+The line graph above shows that, on certain days, the average daily rate for a city hotel is less than that of a resort hotel, and on other days, it is even less. It goes without saying that weekends and holidays may see a rise in resort hotel rates.
+
+
