@@ -27,5 +27,7 @@ The analysis of hotel booking cancellations as well as other factors that have n
 
 The accompanying bar graph shows the percentage of reservations that are canceled and those that are not. It is obvious that there are still a significant number of reservations that have not been canceled. There are still 37% of clients who canceled their reservation, which has a significant impact on the hotel's earnings.
 
+![image](https://github.com/SatyamPatidar30/Python_Data_Analysis_Project/assets/151156440/a48fa2cc-740c-4128-be42-52d52dc6ee56)
 
-   
+In comparison to resort hotels, city hotels have more bookings. It's possible that resort hotels are most expensive than those in cities.
+
