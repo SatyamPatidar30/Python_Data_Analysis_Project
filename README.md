@@ -1,4 +1,5 @@
 # Hotel Booking Analysis Project
+![image](https://github.com/SatyamPatidar30/Python_Data_Analysis_Project/assets/151156440/7e7e2e5f-f205-41f4-b6c5-ca38583f31df)
 
 ## About the data
 This dataset contains 119390 observations for a City Hotel and a Resort Hotel. Each observation represents a hotel booking between the 1st of July 2015 and 31st of August 2017, including booking that effectively arrived and booking that were canceled.
