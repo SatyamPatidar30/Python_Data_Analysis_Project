@@ -23,5 +23,9 @@ The analysis of hotel booking cancellations as well as other factors that have n
 2. When there is a longer waiting list, customers tend to cancel more frequently.
 3. The majority of clients are coming from offline travel agents to make their reservations.
 ## Analysis and Findings
+![image](https://github.com/SatyamPatidar30/Python_Data_Analysis_Project/assets/151156440/3296f4fe-d6c9-4f91-9776-6c889c390c61)
+
+The accompanying bar graph shows the percentage of reservations that are canceled and those that are not. It is obvious that there are still a significant number of reservations that have not been canceled. There are still 37% of clients who canceled their reservation, which has a significant impact on the hotel's earnings.
+
 
    
