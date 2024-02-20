@@ -35,4 +35,7 @@ In comparison to resort hotels, city hotels have more bookings. It's possible th
 
 The line graph above shows that, on certain days, the average daily rate for a city hotel is less than that of a resort hotel, and on other days, it is even less. It goes without saying that weekends and holidays may see a rise in resort hotel rates.
 
+![image](https://github.com/SatyamPatidar30/Python_Data_Analysis_Project/assets/151156440/49430d0b-85bf-48b4-8d4f-8017e42a2ae0)
+
+We have developed the grouped bar graph to analze the months with the highest and lowest reservation levels according to reservation status. As can be seen, both the number of confirmed reservations and the number of canceled reservations are largest in the month of August. whereas January is the month with the most canceled reservations.
 
